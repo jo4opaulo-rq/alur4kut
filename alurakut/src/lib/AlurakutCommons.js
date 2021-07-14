@@ -2,7 +2,7 @@ import React from 'react';
 import styled, { css } from 'styled-components';
 import NextLink from 'next/link';
 
-const BASE_URL = 'http://alurakut.vercel.app/';
+const BASE_URL = 'https://alur4kut-52kkiqyje-jo4opaulo-rq.vercel.app//';
 const v = '1';
 
 
